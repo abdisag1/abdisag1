@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am a full-stack software engineer.
+* I am a full-stack software engineer.
 
 
 ## 🌐 Socials:
