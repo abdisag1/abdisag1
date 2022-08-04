@@ -1,7 +1,7 @@
 # 💫 About Me:
  I am a very passionate software engineer working with innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
  <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abdisa!;I'm+a+Web+Developer...;a+Software+Engineer;and+a+proud+Ethiopian+🇪🇹)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abdisa!;I'm+a+Software+Engineer...;a+Devops+Engineer;feel+free+to+contact+me+with+the+links+below🇹)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
