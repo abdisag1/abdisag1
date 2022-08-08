@@ -8,10 +8,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdisag1&label=Abdisa's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
- <!-- ### Hi there 👋 -->
- <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Abdisa!;Compute+Engineer;Web+Developer;Devops+Engineer;Embeded+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdisag1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdisa-gemechu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdisag1) 
