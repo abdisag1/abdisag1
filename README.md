@@ -17,7 +17,7 @@
 	<a href="https://linkedin.com/in/abdisa-gemechu"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/abdisag1"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/abdisag1"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://medium.com/@abdisag1"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)" alt="Medium"/></a>
+	
 </p>
 
 
