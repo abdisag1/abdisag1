@@ -2,11 +2,8 @@
  I am a very passionate software engineer working with innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
  <!-- ### Hi there 👋 -->
  <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Compute+Engineer;Web+Developer;Devops+Engineer;Embeded+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Abdisa!;Compute+Engineer;Web+Developer;Devops+Engineer;Embeded+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abdisa!;I'm+a+Software+Engineer...;and+a+Devops+Engineer;feel+free+to+contact+me;with+the+links+below)](https://git.io/typing-svg)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdisag1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdisa-gemechu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdisag1) 
