@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi , I'm Abdisa Gemechu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+It's+Abdisa!;Compute+Engineer;Web+Developer;Devops+Engineer;Embeded+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Compute+Engineer;Web+Developer;Devops+Engineer;Embeded+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center"> I am a very passionate software engineer working with innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.</h4>
