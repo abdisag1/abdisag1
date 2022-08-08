@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center"> I am a very passionate software engineer working with innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdisag1&label=Abdisa's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdisag1&label=Abdisa's%20Profile%20Views%20&color=dc143c&style=plastic" alt="image" /> </p>
 
 
 ## 🌐 Socials:
